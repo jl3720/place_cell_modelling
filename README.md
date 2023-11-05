@@ -2,6 +2,8 @@
 
 This was my Bachelor Project in collaboration with Arinjay Mishra, Adam Song, Linca Chuk, Denise Wong and Keana Aitcheson. We benefitted from the excellent supervision of Prof. Anil Bharath from the Department of Bioengineering at Imperial College London. 
 
+This project was awarded **Best Bachelor Project** by the Dept. of Bioengineering.
+
 ## In this repo:
 - Notebooks containing the image data processing, training and evaluation workflows
 - [Project report](Group1_Place_Cell_Modelling_Final_Report.pdf)
